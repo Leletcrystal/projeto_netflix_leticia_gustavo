@@ -1,1 +1,1 @@
-# projeto_netflix_leticia_gustavo
+# projeto_netflix_leticia
